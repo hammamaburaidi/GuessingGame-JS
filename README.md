@@ -1,1 +1,2 @@
-# GuessingGame-JS
+# GuessingGame - JavaScript
+### A simple Javascript guessing game where the user can enter a maximum number and the game generates a secret number between one and the provided maximum number. Then the player has to guess the correct number. If the player guesses a wrong number, they will be alerted that their guess is either too high or too low compared to this secret number that was generated that the user actually trying to guess.
